@@ -1,0 +1,7 @@
+# Photo for the X post — handed to the poster as a file, never committed
+# (keeps the entry well under the 1 MiB entry_size cap).
+photo-post.png
+media-generation-*.json
+transcripts.tar.gz
+muse-usage.jsonl
+out/
